@@ -1,4 +1,4 @@
-##封装vue组件，并使用npm发布
+## 封装vue组件，并使用npm发布
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/scoolwang/blog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
